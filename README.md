@@ -5,7 +5,7 @@ A simple, interactive, Bash script configuring AirBNB's ESLint and Prettier conf
 The script also adds linting during Git commits via Husky (Git Hooks).  
 
 1. To run the script, copy and execute the following command:  
-`bash <(curl -s http://mywebsite.com/myscript.txt)`  
+`bash <(curl -s https://raw.githubusercontent.com/sixman9/create-reactjs-prettier/master/createReactJSPrettier.sh)`  
 
 2. The script will ask the project name and where to create the new ReactJS Javascript project. **N.B. it *doesn't* create Typescript-based projects, yet).**  
 
