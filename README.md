@@ -26,6 +26,5 @@ This simple script was made possible via the following projects:
 - Pretty-quick - https://github.com/azz/pretty-quick
 - Husky - https://github.com/typicode/husky
 
-
 [vsc-eslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 [vsc-prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode

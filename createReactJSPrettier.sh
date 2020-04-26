@@ -1,7 +1,7 @@
 #!/bin/bash
 
-defaultName=my-pretty-app
-defaultDir=~/reactProjects
+defaultName=my-prettier-react-app
+defaultDir=/tmp
 
 # Get user's chosen app name
 read -p "Enter your project name [$defaultName]: " projName
